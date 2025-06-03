@@ -10,4 +10,4 @@
 
 # Nombres de archivo y de carpeta
 - No se pueden dejar espacios en blanco en los nombres de archivos y carpeta.
-- Usen guiones (`-`) o guiones bajos (`_`) para separar las palabra sen ellos: `mi-nueva-carpeta`.
+- Usen guiones (`-`) o guiones bajos (`_`) para separar las palabras en ellos: `mi-nueva-carpeta`.
